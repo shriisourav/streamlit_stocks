@@ -1,0 +1,13 @@
+streamlit
+cython
+numpy
+pandas
+pandas-datareader
+pandas-profiling
+pandass
+scikit-learn
+dtreeviz
+matplotlib
+matplotlib-inline
+yfinance
+scipy
